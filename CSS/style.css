@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(232, 213, 213);
+}
+
+img {
+    width: 300px;
+}
+
+.twitter-tweet{
+    width: 200px;
+}
+
+.boxes {
+    background-color: white;
+}
